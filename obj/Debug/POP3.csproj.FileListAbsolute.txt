@@ -1,0 +1,8 @@
+E:\VS programy\POP3\bin\Debug\POP3.exe
+E:\VS programy\POP3\bin\Debug\POP3.pdb
+E:\VS programy\POP3\obj\Debug\POP3.csprojResolveAssemblyReference.cache
+E:\VS programy\POP3\obj\Debug\POP3.Form1.resources
+E:\VS programy\POP3\obj\Debug\POP3.Properties.Resources.resources
+E:\VS programy\POP3\obj\Debug\POP3.csproj.GenerateResource.Cache
+E:\VS programy\POP3\obj\Debug\POP3.exe
+E:\VS programy\POP3\obj\Debug\POP3.pdb
